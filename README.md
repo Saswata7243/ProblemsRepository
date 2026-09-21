@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saswata7243/ProblemsRepository/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saswata7243/ProblemsRepository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Saswata7243/ProblemsRepository/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Saswata7243/ProblemsRepository/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saswata7243/ProblemsRepository/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Saswata7243/ProblemsRepository/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saswata7243/ProblemsRepository/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Saswata7243/ProblemsRepository/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Saswata7243/ProblemsRepository/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
 | ------- |
