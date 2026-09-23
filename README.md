@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Saswata7243/ProblemsRepository/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Saswata7243/ProblemsRepository/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Saswata7243/ProblemsRepository/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Saswata7243/ProblemsRepository/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Saswata7243/ProblemsRepository/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saswata7243/ProblemsRepository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Saswata7243/ProblemsRepository/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saswata7243/ProblemsRepository/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Saswata7243/ProblemsRepository/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saswata7243/ProblemsRepository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saswata7243/ProblemsRepository/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Saswata7243/ProblemsRepository/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
